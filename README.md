@@ -1,4 +1,4 @@
-# toggle-trello-details-tm
+# toggle-trello-board-details-tm
 Tampermonkey (et al) script to add a button to Trello to toggle card decorations such as member icons, description, attachments, covers.
 
 ## Usage ##
