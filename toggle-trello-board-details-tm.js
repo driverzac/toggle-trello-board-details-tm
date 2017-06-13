@@ -15,7 +15,7 @@ var TrelloToggleButton = (function() {
 
     var _board_header_selector     = '.board-header-btns.mod-left';
     var _board_header_btn_class    = 'board-header-btn';
-    var _trello_hideable_classes   = ['.badges','.list-card-members','.list-card-cover'];
+    var _trello_hideable_classes   = ['.card-label','.badges','.list-card-members','.list-card-cover'];
     var _key_to_bind               = 192; // tilde (`)
 	var _button_label              = 'Toggle Details';
 
